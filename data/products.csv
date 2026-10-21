@@ -1,0 +1,6 @@
+product_id,product_name,unit_of_measure,category,material_cost,labor_cost,overhead_cost,freight_cost,tariff_cost,min_margin_pct,list_price
+BAG-001,Zip Top Bag 5x6 2mil,"case of 1,000",Flexible Packaging,15.2,2.1,2.0,1.3,0.0,0.15,28.5
+FILM-002,Pallet Stretch Film 18in,roll,Stretch Film,31.0,2.8,3.2,2.4,0.5,0.18,56.0
+BOX-003,Corrugated Shipping Box M,each,Corrugated,0.72,0.18,0.14,0.12,0.0,0.16,1.69
+TAPE-004,Carton Sealing Tape 48mm,roll,Packaging Supplies,1.15,0.2,0.18,0.14,0.0,0.2,2.55
+PAL-005,Reusable Plastic Pallet,each,Material Handling,19.0,2.4,2.2,3.5,0.4,0.17,39.5

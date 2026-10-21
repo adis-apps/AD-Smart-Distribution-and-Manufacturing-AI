@@ -1,0 +1,27 @@
+{
+  "model": "LogisticRegression",
+  "n_rows": 1200,
+  "positive_rate": 0.6275,
+  "competitor_observed_rate": 0.7842,
+  "cv5_roc_auc": "0.7657 \u00b1 0.0266",
+  "cv5_brier": 0.1864,
+  "holdout_n": 300,
+  "holdout_roc_auc": 0.7719,
+  "holdout_average_precision": 0.8506,
+  "holdout_brier": 0.1864,
+  "holdout_brier_base_rate_baseline": 0.234,
+  "holdout_log_loss": 0.5505,
+  "holdout_accuracy_at_0_5": 0.74,
+  "holdout_accuracy_always_win_baseline": 0.6267,
+  "price_coefficients_standardized": {
+    "price_vs_list": 0.0557,
+    "price_vs_competitor": -1.1075,
+    "price_vs_list_no_competitor": -0.5685
+  },
+  "log_odds_per_100pct_price_premium": {
+    "with_competitor": -15.09,
+    "without_competitor": -14.88
+  },
+  "challenger_lightgbm_monotonic_cv5_roc_auc": "0.7556 \u00b1 0.0278",
+  "evaluation_note": "Synthetic-data diagnostic only; not evidence of real-world predictive performance."
+}

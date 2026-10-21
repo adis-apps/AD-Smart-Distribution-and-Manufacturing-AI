@@ -1,0 +1,6 @@
+product_id,setup_cost,engineering_cost,setup_allocation_qty,cost_to_serve_unit,capacity_utilization_pct,expedite_premium_pct,guaranteed_inventory_premium_pct,warranty_premium_pct,regulatory_premium_pct,sustainability_premium_pct
+BAG-001,180,120,1000,0.12,72,0.03,0.02,0.02,0.015,0.01
+FILM-002,250,180,2000,0.18,94,0.03,0.02,0.02,0.015,0.01
+BOX-003,80,35,20000,0.025,38,0.03,0.02,0.02,0.015,0.01
+TAPE-004,45,20,10000,0.03,25,0.03,0.02,0.02,0.015,0.01
+PAL-005,300,150,500,0.45,88,0.03,0.02,0.02,0.015,0.01

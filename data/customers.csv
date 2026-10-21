@@ -1,0 +1,7 @@
+customer_id,customer_name,segment,payment_terms,credit_hold,target_margin_pct,annual_revenue
+CUST-001,ABC Food Packaging,Food & Beverage,30,False,0.18,1813000.0
+CUST-002,Northstar Distribution,Distributor,45,False,0.2,1965000.0
+CUST-003,Metro Industrial Supply,Industrial,30,False,0.19,1256000.0
+CUST-004,ValuePack Retail,Retail,60,True,0.21,1229000.0
+CUST-005,Greenline Packaging,Food & Beverage,30,False,0.17,2094000.0
+CUST-006,Summit Warehouse Group,Industrial,45,False,0.2,1513000.0

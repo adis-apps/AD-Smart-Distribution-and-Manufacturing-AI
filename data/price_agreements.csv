@@ -1,0 +1,2 @@
+agreement_id,customer_id,product_id,contract_price,start_date,end_date,status,notes
+SPA-CUST001-BAG001,CUST-001,BAG-001,26.75,2026-08-31,2028-09-29,active,Synthetic example only; replace with customer-approved agreement data.
