@@ -5,7 +5,7 @@ import streamlit as st
 from dotenv import load_dotenv
 
 load_dotenv()
-API = os.getenv("API_BASE_URL", "http://localhost:8000").rstrip("/")
+API = os.getenv("API_BASE_URL", "http://13.211.201.162:8000").rstrip("/")
 st.set_page_config(page_title="AD Smart Distribution AI", page_icon="📦", layout="wide")
 st.title("📦 AD Smart Distribution AI")
 st.caption("Packaging & distribution operations intelligence | Synthetic POC data; no live ERP/EDI connections")
